@@ -1,0 +1,4 @@
+.todo_container {
+  max-width: 600px;
+  overflow: auto;
+}
